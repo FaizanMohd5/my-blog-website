@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>https://faizanmohd5.github.io/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <image>
+      <title>My New Hugo Site</title>
+      <url>https://faizanmohd5.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://faizanmohd5.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- 0.133.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 24 Nov 2024 18:15:36 +0530</lastBuildDate>
+    <atom:link href="https://faizanmohd5.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The First Blog!</title>
+      <link>https://faizanmohd5.github.io/posts/first-blog/</link>
+      <pubDate>Sun, 24 Nov 2024 18:15:36 +0530</pubDate>
+      <guid>https://faizanmohd5.github.io/posts/first-blog/</guid>
+      <description>Introduction Hello, World! 🌍
+Welcome to the very first post on my brand-new blog, created with none other than Hugo! 🎉 It&amp;rsquo;s been an exciting journey getting this site up and running, and I’m thrilled to finally share it with you.
+As a final year student, I’ve always been intrigued by web development, and building this blog is my way of diving deeper into the world of static site generators. After considering a variety of tools, I decided Hugo was the best fit.</description>
+    </item>
+  </channel>
+</rss>
