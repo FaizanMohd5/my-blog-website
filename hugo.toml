@@ -1,4 +1,5 @@
-baseURL = 'https://faizanmohd5.github.io/'
+baseURL = "https://faizanmohd5.github.io/my-blog-website/"
+relativeURLs = true
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = "PaperMod"
